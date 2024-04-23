@@ -1,1 +1,1 @@
-# scmsstudent.github.io
+# CISW 17 Midterm Starter Files.
